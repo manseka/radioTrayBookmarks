@@ -1,0 +1,51 @@
+<bookmarks>
+<group name="root">
+   <group name="Argentina">
+        <group name="Neuquen">
+            <bookmark name="LU5" url="http://live.lu5am.com:8000/LU5?type=.mp3"/>
+        <bookmark name="Fm Chos Malal -102.1" url="http://158.69.242.119:7232/;"/></group>
+        <group name="AM">
+            <bookmark name="Continental 590" url="http://18683.live.streamtheworld.com/CONTINENTAL_SC"/>
+
+        </group>
+        <group name="Buenos Aires AM">
+            <bookmark name="La Tribu" url="http://vivo.fmlatribu.com:8000/latribu.mp3"/>
+            <bookmark name="Vorterix" url="http://ffahls-lh.akamaihd.net/i/vorvideo01hls_1@305260/index_1_a-p.m3u8"/>
+            <bookmark name="Radio Madre" url="http://200.68.81.65:8000/am530"/>
+            <bookmark name="Radio Colonia" url="http://www.servidorstreaming1.com:9962/;"/> 
+            <bookmark name="Radio Argentina" url="http://195.154.182.222:25223/live.mp3"/>  
+            <bookmark name="Radio Rivadavia" url="http://38.107.243.197:9639/live"/>                     
+            <bookmark name="Belgrano-650" url="http://195.154.182.222:25224/live.mp3"/>                                      
+            <bookmark name="Radio 10" url="rtmp://radio10.stweb.tv:1935/radio10/live"/>                              
+            <bookmark name="Radio Rebelde" url="http://miradioenlaweb.com:6358/;type=acc"/>
+            <bookmark name="Am 750" url="http://miradioenlaweb.net:8050/AM750"/>  
+            <bookmark name="Cooperativa 790" url="http://rcoop.cnwks.ws:8358"/>  
+            <bookmark name="Radio Mitre 790" url="http://buecrplb01.cienradios.com.ar/Mitre790.aac "/> 
+            <bookmark name="Del Pueblo" url="http://104.222.99.53:7830/;"/>  
+            <bookmark name="Nacional 870" url="rtmp://186.33.227.199/rn_sc_rad1/mp3:rn_sc_rad1.stream"/> 
+            <bookmark name="La Red" url=" http://lsdlrhls-lh.akamaihd.net/i/laredHLS_1@59923/master.m3u8"/> 
+            <bookmark name="Radio Gral Belgrano-650" url="http://200.58.118.108:8160/stream"/>                               
+            <bookmark name="R9 La Deportiva" url="http://streamlky.alsolnet.com:443/radio9"/> 
+            <bookmark name="Radio Genesis 970" url="http://streaming.radiolinksmedia.com:7790/;"/> 
+
+
+        </group>
+        <group name="Buenos Aires FM">
+            <bookmark name="Del Plata 1030" url="http://streammax.alsolnet.com:443/amdelplata"/>
+            <bookmark name="Mega 98.3" url="rtmp://server5.stweb.tv:1935/mega983/live"/>
+            <bookmark name="El Mundo" url="http://sc02.loudstreaming.net:8085/mp3"/>
+            <bookmark name="Radio La Luna" url="http://207.244.70.172:9344/; "/>                                                     
+            <bookmark name="Radio América" url="rtmp://server2.stweb.tv:1935/america/live_128"/>                                   
+            <bookmark name="La Tribu" url="http://vivo.fmlatribu.com:8000/latribu.mp3"/>                                                                 
+            <bookmark name="Malena" url="http://vivo.radioam750.com.ar/vivofm.mp3 "/>
+            <bookmark name="Malena" url="http://14073.live.streamtheworld.com/ARPEGGIOAAC"/>
+            <bookmark name="Radio con vos" url="http://server6.stweb.tv:1935/rcvos/live/chunklist.m3u8"/>
+            <bookmark name="La Boca" url="http://208.98.41.72:9304"/>
+            <bookmark name="Delta" url="http://14983.live.streamtheworld.com/DELTA_903AAC"/>                                               
+            <bookmark name="Vorterix" url="http://ffahls-lh.akamaihd.net/i/vorvideo01hls_1@305260/index_1_a-p.m3u8"/>
+            <bookmark name="Zero" url="http://108.166.161.217:7320/;"/>   
+        <bookmark name="Aspen 102.3" url="http://201.212.5.144/aspen?MSWMExt=.asf"/></group>
+
+    </group>
+</group>
+</bookmarks>
