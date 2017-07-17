@@ -1,0 +1,2 @@
+# radioTrayBookmarks
+Bookmarks para RadioTray.
